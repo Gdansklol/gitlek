@@ -4,6 +4,11 @@
 1. Markdown
 2. Contents
 
+*Skillnaden*
+
+---|--- |---
+Frontend| Backend
+
 
 <h2>GIT LEK<h2>
 :smile:
