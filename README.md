@@ -14,7 +14,9 @@
 |Feature1| 
 Linking Images
 
-![A cute white dog]( (https://i.esdrop.com/d/ZklKfna5T3.jpg "A cute white dog")
+![A cute white dog](https://i.esdrop.com/d/ZklKfna5T3.jpg "A cute white dog")
+
+
 
 
 |Feature2|
