@@ -14,6 +14,21 @@ Frontend| Backend
 :smile:
 
 
+```javascript
+
+function sample(arr, req) {
+        arr = arr.sort(()=>{ return 0.5 - Math.random() }) ;
+        let i = 0,
+            array = [];
+        while (i < req) {
+            array.push(arr[i])
+                ++i
+        }
+        return array
+    }
+
+```
+
 - Happy Day!
 
 [Båmi@IT Blog Magazine] (https://bomi.com/)
@@ -29,3 +44,4 @@ Frontend| Backend
         section Another
         Task in sec      :2022-08-19  , 19d
         another task      : 21d
+
