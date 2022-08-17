@@ -1,15 +1,29 @@
 <h1>Jensen<h1>
 #hej
 
+  ```mermaid
+    gantt
+        Grupp Arbete Diagram
+        dateFormat  YYYY-MM-DD
+        section Section
+        A task           :a1, 2022-08-16, 30d
+        Another task     :after a1  , 20d
+        section Another
+        Task in sec      :2022-08-19  , 12d
+        another task      : 24d
+  ```
 
-[![](https://mermaid.ink/img/pako:eNpVj7EOgkAQRH-FbGm4xpLCRMEQYkmpFiu34kXgLsueiSH8uxcOCqd7M5PN7ASN1QQZjIJChcGWsVef_W1Igq67e6LUISnZO3fkBwnFoBbTdUsUKtHKq4XzIuLF6shV5NKI6ui9eCfGaLZGSkb3-r-0CVLoiXs0Ouyb5oDe6bDyrI1YhuyJ3UgpoBdbf4cGMmFPW2l9ZW3NPzN-RMw)](https://mermaid-js.github.io/mermaid-live-editor/edit#pako:eNpVj7EOgkAQRH-FbGm4xpLCRMEQYkmpFiu34kXgLsueiSH8uxcOCqd7M5PN7ASN1QQZjIJChcGWsVef_W1Igq67e6LUISnZO3fkBwnFoBbTdUsUKtHKq4XzIuLF6shV5NKI6ui9eCfGaLZGSkb3-r-0CVLoiXs0Ouyb5oDe6bDyrI1YhuyJ3UgpoBdbf4cGMmFPW2l9ZW3NPzN-RMw)
+
+
+
+
 <h2> Name <h2>
 1. Markdown
 2. Contents
 
 *Skillnaden*
 
----|--- |---
+---|--- |
 Frontend| Backend
 
 
