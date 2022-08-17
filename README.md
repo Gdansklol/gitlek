@@ -15,16 +15,17 @@
 	      *DoD*
 	Devops Collegue User Instrction. 
 	
-	```mermaid
+	 ```mermaid
 	gantt
+	 title Grupp Arbete Diagram
 
         dateFormat  YYYY-MM-DD
         section Section
-        A task           :a1, 2022-08-15, 7d
+        A task           :a1, 2022-08-15, 30d
         Another task     :after a1  , 7d
         section Another
         Task in sec      :2022-08-19  , 5d
-        another task      : 7d
+        another task      : 24d
   ```
 
 
