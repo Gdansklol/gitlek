@@ -1,29 +1,31 @@
-<h2> Name <h2>
-1. Markdown
-2. Contents
+<h2> Jensen YH  <h2>
+<h3>Grup Arbete <h3>
+-Markdown
+-Contents
 
 *Skillnaden*
 
----|--- |---
+---|--- |
 ---|--- |
 Frontend| Backend
 
 
 <h2>GIT LEK<h2>
 :smile:
-#gitlek
+
+
 - Happy Day!
-- Happy Day!
+
 [Båmi@IT Blog Magazine] (https://bomi.com/)
 
 
   ```mermaid
     gantt
-        title A Gantt Diagram
+        title Grupp Arbete for App
         dateFormat  YYYY-MM-DD
         section Section
-        A task           :a1, 2014-01-01, 30d
-        Another task     :after a1  , 20d
+        A task           :a1, 2022-08-01, 30d
+        Another task     :after a1  , 7d
         section Another
-        Task in sec      :2014-01-12  , 12d
-        another task      : 24d
+        Task in sec      :2022-08-19  , 19d
+        another task      : 21d
