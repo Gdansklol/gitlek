@@ -1,17 +1,30 @@
-<h1>Jensen<h1>
-#hej
+<h1>Jensen YH <h1>
+#hej :smil:
 
-  ```mermaid
-       
-        Grupp Arbete Diagram
+  
+
+        *Grupp Arbete Diagram*
+
 	User Story-003
+	As a devops,
+	I want to,
+	have a Help File for
+	inserting an image in Markdown.
+	     So that
+	When I need to do it find instructions.
+	      *DoD*
+	Devops Collegue User Instrction. 
+	
+	```mermaid
+	gantt
+
         dateFormat  YYYY-MM-DD
         section Section
-        A task           :a1, 2022-08-01, 31d
-        Another task     :after a1  , 20d
+        A task           :a1, 2022-08-15, 7d
+        Another task     :after a1  , 7d
         section Another
-        Task in sec      :2022-08-12  , 12d
-        another task      : 20d
+        Task in sec      :2022-08-19  , 5d
+        another task      : 7d
   ```
 
 
