@@ -14,11 +14,8 @@
 |Feature1| 
 Linking Images
 
-```html
-<figure>
-    <img src="https://i.esdrop.com/d/ZklKfna5T3.jpg" alt="A cute dog">
-</figure>
-```
+![A cute white dog]( (https://i.esdrop.com/d/ZklKfna5T3.jpg "A cute white dog")
+
 
 |Feature2|
 
